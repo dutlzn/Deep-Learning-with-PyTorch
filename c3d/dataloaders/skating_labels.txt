@@ -1,0 +1,10 @@
+1 2Axel
+2 3Axel
+3 3Flip
+4 3Loop
+5 3Lutz
+6 3Lutz3Toeloop
+7 ChComboSpin4
+8 ChoreoSequence1
+9 FlyCamelSpin4
+10 StepSequence3
